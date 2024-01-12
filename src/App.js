@@ -17,7 +17,6 @@ class App extends Component {
 <Route exact path='/new33' element= {<NewNote/>} />
 <Route exact path='/cr' element= {<NoteCreateForm/>} />
 <Route exact path='/edit/:cid' element= {<EditNote/>} />
-//testing this
 </Routes>
 </header></div>
 
@@ -25,7 +24,7 @@ class App extends Component {
     );
   
 }
-
+//testing this
 }
 
 export default withAuthenticator(App);
