@@ -22,5 +22,29 @@
         "aa30b121bc6": {}
       }
     }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aa3-dev-130735-authRole",
+      "UnauthRoleArn": "arn:aws:iam::589744011859:role/amplify-aa3-dev-130735-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::589744011859:role/amplify-aa3-dev-130735-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-aa3-dev-130735-deployment",
+      "UnauthRoleName": "amplify-aa3-dev-130735-unauthRole",
+      "StackName": "amplify-aa3-dev-130735",
+      "StackId": "arn:aws:cloudformation:us-east-1:589744011859:stack/amplify-aa3-dev-130735/78f70a50-b175-11ee-8ccc-0ad4ea3698d3",
+      "AmplifyAppId": "d7v0icdzkcab4"
+    },
+    "categories": {
+      "auth": {
+        "aa3ee5e9135": {}
+      },
+      "api": {
+        "aa3": {}
+      },
+      "storage": {
+        "aa3imgages": {}
+      }
+    }
   }
 }
